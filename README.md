@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Unscop
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @Muratbek
+- 👀 I’m interested in backend developer
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Kazakhstan, Nur-Sultan
 
